@@ -9,6 +9,10 @@ System.out.println("wipro");
 	{
 		System.out.println("Odd");
 System.out.println("wipro");
+ int a,b,c;
+a=1;
+b=2;
+c=a+b;
 	}
 }
 }
