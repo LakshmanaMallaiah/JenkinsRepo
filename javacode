@@ -3,10 +3,12 @@ public static void main(String[] args) {
 	int a=5;
 	if(a%2==0) {
 		System.out.println("Even");
+System.out.println("wipro");
 	}
 	else
 	{
 		System.out.println("Odd");
+System.out.println("wipro");
 	}
 }
 }
